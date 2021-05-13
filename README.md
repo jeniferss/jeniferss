@@ -16,7 +16,7 @@ I am a student at  Federal University of ABC :office: pursuing a Bachelor's degr
 
 - :books: I aim to graduate in Aeroespace Engineering
 
-- :telescope: Learn about The Universe is one of my hobbies, I have taken courses such as Astronomy and Astrobiology/Exobiology
+- :telescope: Learning about The Universe is one of my hobbies, I have taken courses such as Astronomy and Astrobiology/Exobiology
 
 - :headphones: Music is my addiction
 
