@@ -12,7 +12,7 @@ I am a student at  Federal University of ABC :office: pursuing a Bachelor's degr
 
 ------------
 
-- :seedling:   I am learning Full Stack Development (ReactJS)
+- :seedling:   I am learning Full Stack Development 
 
 - :books: I aim to graduate in Aeroespace Engineering
 
