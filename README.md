@@ -37,4 +37,4 @@ I am a student at  Federal University of ABC :office: pursuing a Bachelor's degr
 
 ------------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferss&theme=" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferss&theme=black" />
