@@ -38,3 +38,17 @@ I am a student at  Federal University of ABC :office: pursuing a Bachelor's degr
 ------------
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeniferss&theme=radical&layout=compact" />
+
+<p align="center">
+    </br>
+    </br>
+  Feel free to reach out to me on
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jeniferss/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/jeniferss/count.svg" alt="visitorcount"/>
+</p>
