@@ -9,7 +9,7 @@ I love to discover how things work, and I believe that's why I am always explori
 - :snake: I am a Python Backend Developer
 - :wrench: I am a Mechatronics Technician
 - :microscope: I am pursuing a Bachelor's degree in Science and Technology
-- :seedling: I am learning Full Stack Development and Data Enginnering 
+- :seedling: I am learning Full Stack Development and Data Engineering
 - :books: I aim to graduate in Computer Science
 
 
