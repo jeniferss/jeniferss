@@ -6,9 +6,7 @@ I love discovering how things work, and I believe that’s why I’m always expl
 
 :alien: **About Me:**
 
-- :snake: I am a Python Backend Developer
-- :baby: I am a Data Engineer Intern
+- :snake: I am a Software Engineer
 - :wrench: I am a Mechatronics Technician
-- :microscope: I am pursuing a Bachelor's degree in Science and Technology
-- :seedling: I am learning Full Stack Development 
-- :books: My goal is to graduate in Computer Science
+- :woman_technologist: I am pursuing a Bachelor's degree in Computer Science
+- :seedling: I am learning Data Engineering Topics
